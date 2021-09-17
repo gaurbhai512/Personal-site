@@ -194,3 +194,39 @@ li {
   margin-bottom: 50px;
 }
 
+.about-me-img {
+  max-width: 40%;
+  height: auto;
+  text-align: right;
+  padding-top : 0;
+}
+
+#about-me .card {
+  width: 80%;
+  margin: 120px;
+  padding-bottom: 0;
+}
+
+#about-me h2{
+  text-align: center;
+}
+
+.about-me {
+   padding-left: 10%;
+  padding-top: 10%;
+  padding-right: 50%;
+  padding-bottom: 0;
+  font-size: 25px;
+}
+
+.about-me-img-div {
+  position: relative;
+  top: -350px;
+  left: 500px;
+}
+
+.quote {
+  font-size: 25px;
+  font-weight: 600;
+  margin-top: 100px;
+}
